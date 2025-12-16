@@ -1,6 +1,6 @@
 # Code Breaking Games
 
-Mastermind, Jotto, Bulls and cows, and Wordle all fall under the class of code breaking games. I like these problem, because they indicate a pratical application of information theory and information retrival. Making a best guess is based on information theory.
+Mastermind, Jotto, Bulls and cows, and Wordle all fall under the class of code breaking games. I like these problems, because they indicate a practical application of information theory and information retrieval. Making a best guess is based on information theory.
 
 Entropy in information theory is defined as
 
@@ -8,7 +8,7 @@ $ H(X) = -\sum_{x \in X} p(x) \log p(x) $
 
 Use log base 2 if you want to find how many bits it will take to encode the probability distributions.
 
-In the case of information retrival, you can think the clue that is given in each round as the score when trying to find the most relevant document. 
+In the case of information retrieval, you can think of the clue that is given in each round as the score when trying to find the most relevant document. 
 
 ## Ngrams
 
